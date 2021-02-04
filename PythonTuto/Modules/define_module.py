@@ -1,0 +1,9 @@
+# module is a way to organize code a structure it
+# define two functions
+
+def lbs_to_kg(weight):
+    return weight * 0.45
+
+
+def kg_to_lbs(weight):
+    return weight / 0.45
